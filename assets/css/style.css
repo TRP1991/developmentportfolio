@@ -31,6 +31,59 @@ header {
     padding-bottom: 385px;
 }
 
+.sobre-mi {
+    font-family: 'Oswald';
+    font-size: 60px;
+    color: #373A3C;
+}
+
+.subtitle {
+    padding-right: 10%;
+    padding-left: 10%;
+    font-family: 'Open Sans';
+    font-size: 25px;
+}
+
+.description {
+    padding-right: 10%;
+    padding-left: 10%;
+    font-family: 'Open Sans', regular;
+    font-size: 14px;
+    color: #373A3C;
+    font-weight: 400;
+}
+
+.card-title {
+    font-family: 'Oswald', regular;
+    font-size: 23px;
+    color: #373A3C;
+}
+
+.card-text {
+    font-family: 'Open Sans', light;
+    font-size: 16px;
+    color: #373A3C;
+    text-align: left;
+}
+
+.experiencia {
+    font-family: 'Oswald';
+    font-size: 60px;
+    color: #373A3C;
+}
+
+.ultimos-trabajos {
+    font-family: 'Oswald';
+    font-size: 60px;
+    color: #FFFFFF;
+}
+
+.contacto {
+    font-family: 'Oswald';
+    font-size: 60px;
+    color: #373A3C;
+}
+
 .h1 {
     font-weight: 800;
     font-size: 3.75em;
@@ -43,12 +96,6 @@ header {
     text-align: center;
 }
 
-.subtitle {
-    padding-right: 10%;
-    padding-left: 10%;
-}
-
-
 .hr1 {
     border: 1px solid black;
     width: 10%;
@@ -59,10 +106,6 @@ header {
     border: 1px solid #FFFFFF;
     width: 10%;
     text-align: center; 
-}
-.description {
-    padding-right: 10%;
-    padding-left: 10%;
 }
 
 .carousel-item img {
