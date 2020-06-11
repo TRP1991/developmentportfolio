@@ -20,15 +20,22 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
+    background-attachment: scroll;
     padding-bottom: 10rem;
+    
 }
 
 
 .hero-section{
     text-shadow: 0.100em 0.15em 0.100em #707070;
     padding: 5.50rem 2rem;
-    padding-top: 100px;
-    padding-bottom: 385px;
+    padding-top: 70px;
+    padding-bottom: 300px;
+}
+.yo-soy {
+    font-family: 'Oswald',ExtraLight;
+    font-size: 107px;
+    color: #FFFFFF;
 }
 
 .sobre-mi {
@@ -48,7 +55,7 @@ header {
     padding-right: 10%;
     padding-left: 10%;
     font-family: 'Open Sans', regular;
-    font-size: 14px;
+    font-size: 15px;
     color: #373A3C;
     font-weight: 400;
 }
@@ -61,7 +68,7 @@ header {
 
 .card-text {
     font-family: 'Open Sans', light;
-    font-size: 16px;
+    font-size: 17px;
     color: #373A3C;
     text-align: left;
 }
@@ -84,6 +91,11 @@ header {
     color: #373A3C;
 }
 
+.year {
+    font-family: 'Open Sans', light;
+    font-size: 17px;
+    color: #373A3C;
+}
 .h1 {
     font-weight: 800;
     font-size: 3.75em;
