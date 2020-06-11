@@ -20,9 +20,9 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
-    background-attachment: scroll;
     padding-bottom: 10rem;
-    
+    height: auto;
+    max-width: 100%
 }
 
 
@@ -34,6 +34,12 @@ header {
 }
 .yo-soy {
     font-family: 'Oswald',ExtraLight;
+    font-size: 107px;
+    color: #FFFFFF;
+}
+
+.tamara {
+    font-family: 'Oswald';
     font-size: 107px;
     color: #FFFFFF;
 }
